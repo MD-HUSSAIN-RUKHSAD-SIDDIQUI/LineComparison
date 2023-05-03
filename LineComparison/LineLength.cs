@@ -8,7 +8,7 @@ namespace LineComparison
 {
     internal class LineLength
     {
-        /*
+        
         public static void Calculation()
         {
 
@@ -28,6 +28,6 @@ namespace LineComparison
         
 
         }
-        */
+        
     }
 }
