@@ -12,6 +12,7 @@ namespace LineComparison
         {
             Console.WriteLine("Welcome to my Program of Line Comparison Problem:");
             //LineLength.Calculation();
+            LineLengthEquality.Check();
             Console.ReadKey();
         }
     }

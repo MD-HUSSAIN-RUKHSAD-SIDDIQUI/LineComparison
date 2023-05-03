@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LineComparison
 {
-    internal class LineLength
+    public  class LineLength
     {
         
         public static void Calculation()
