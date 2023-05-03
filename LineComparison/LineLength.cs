@@ -25,7 +25,8 @@ namespace LineComparison
             double length = Math.Sqrt(Math.Pow(a2 - a1, 2) + Math.Pow(b2 - b1, 2));
 
             Console.WriteLine($"The length of the line connecting ({a1},{b1}) and ({a2},{b2}) is {length}");
-        
+            LineLengthEquality.LineEqualityChecker(a1, b1, a2, b2);
+
 
         }
         

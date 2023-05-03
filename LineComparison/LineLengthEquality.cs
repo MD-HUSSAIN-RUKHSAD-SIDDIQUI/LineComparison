@@ -8,7 +8,7 @@ namespace LineComparison
 {
     public class LineLengthEquality
     {
-        public static void Check()
+       /* public static void Check()
         {
 
 
@@ -26,7 +26,7 @@ namespace LineComparison
 
             Console.WriteLine($"The length of the line connecting ({x1},{y1}) and ({x2},{y2}) is {length}");
             LineLengthEquality.LineEqualityChecker(x1, y1, x2, y2);
-        }
+        } */
         public static void LineEqualityChecker(double x1, double y1, double x2, double y2)
         {
 
