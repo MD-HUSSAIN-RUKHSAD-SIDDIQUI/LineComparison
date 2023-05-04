@@ -1,8 +1,0 @@
-C:\Users\hp\Desktop\LineComparisonProgram\LineComparison\bin\Debug\LineComparison.exe.config
-C:\Users\hp\Desktop\LineComparisonProgram\LineComparison\bin\Debug\LineComparison.exe
-C:\Users\hp\Desktop\LineComparisonProgram\LineComparison\bin\Debug\LineComparison.pdb
-C:\Users\hp\Desktop\LineComparisonProgram\LineComparison\obj\Debug\LineComparison.csproj.AssemblyReference.cache
-C:\Users\hp\Desktop\LineComparisonProgram\LineComparison\obj\Debug\LineComparison.csproj.SuggestedBindingRedirects.cache
-C:\Users\hp\Desktop\LineComparisonProgram\LineComparison\obj\Debug\LineComparison.csproj.CoreCompileInputs.cache
-C:\Users\hp\Desktop\LineComparisonProgram\LineComparison\obj\Debug\LineComparison.exe
-C:\Users\hp\Desktop\LineComparisonProgram\LineComparison\obj\Debug\LineComparison.pdb
